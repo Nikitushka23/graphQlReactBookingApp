@@ -1,0 +1,19 @@
+.auth-form {
+  width: 25rem;
+  max-width: 80%;
+  margin: 5rem auto;
+}
+
+.events-list {
+  width: 40rem;
+  max-width: 90%;
+  margin: 2rem auto;
+  list-style: none;
+  padding: 0;
+}
+
+.events-list-item {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid #e40623;
+}

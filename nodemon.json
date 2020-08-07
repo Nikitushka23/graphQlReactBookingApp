@@ -1,0 +1,7 @@
+ {
+     "env": {
+        "MONGO_USER" : "nik",
+        "MONGO_PASSWORD" : "1",
+        "MONGO_DB": "events-react-cool"
+     }
+ }
